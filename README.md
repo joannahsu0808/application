@@ -13,7 +13,7 @@
         <div style="background-color:antiquewhite;text-align:center"><h1 style="margin-top:0px;margin-bottom:0px">Wehelp Bootcamp 申請表</h1></div>
         <div class="b-gray"><h3 class="b-gray1">個人簡介</h3></div>
         <div class="b-beige">  您好，我是許唯鎧，是一位從輔仁大學法律系畢業後就一直在家裡的貿易公司工作的家庭主婦。
-        <div class="b-beige">長久以來一直不停地想要學習新的事物，我知道自已一直想創作出一些有用的東西，但是一直沒有具體的概念來實現這些想法，直到這一年慢慢了解程式可能可以實現這個願望。</div>
+        <div class="b-beige">長久以來一直不停地想要學習新的事物，我知道自已一直想創作出一些有用的東西，但是一直沒有具體的概念來實現這些想法，直到這一年慢慢了解程式可能可以實現這個希望。</div>
         <div class="b-beige">一開始也是看了非常多的youtube影片，但也只是把自已搞得非常混亂，反而不知道要從哪個程式，哪個地方開始下手學習。</div>
         <div class="b-beige">這一年來因為看了彭彭老師的影片，大致了解也確定方向是可以從前後端工程師，能夠獨立完成工作，開始實現夢想。</div>
         <div class="b-beige">我是1983年生的，已經39歲了，再不開始就會越來越沒力氣了，所以我非常希望能加入訓練營，逼自已實現這個夢想！</div>
